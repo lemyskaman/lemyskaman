@@ -1,4 +1,4 @@
-###About me
+### About me
 
 - 👋 Hi, I’m @lemyskaman
 - 👀 I’m interested in Software architecture and desing, Domain Driven Development 
@@ -7,7 +7,7 @@
 - 📫 You can poke me thorug my networks https://lemyskaman.com/about/lemys-lopez Cancel changes
 
 
-###Languages I use
+#Languages I used for the last year !
 
 <img src="https://wakatime.com/share/@lemyskaman/0fd832f6-2a00-4d4a-a075-4f62fe087168.svg">
 
