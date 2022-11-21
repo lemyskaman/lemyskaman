@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software architecture and desing, Domain Driven Development 
 - 🌱 I’m currently learning Desing Patterns and Machine Learning
 - 💞️ I’m looking to collaborate on a Laravel Based project
-- 📫 You can poke me thorug my networks https://lemyskaman.com/about/lemys-lopez Cancel changes
+- 📫 You can poke me thorug my networks https://lemyskaman.com/about/lemys-lopez
 
 
 ## Languages I used for the last year !
