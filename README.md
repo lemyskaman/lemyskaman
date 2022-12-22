@@ -9,7 +9,7 @@
 
 ## Languages I used for the last year !
 
-<img src="https://wakatime.com/share/@lemyskaman/0fd832f6-2a00-4d4a-a075-4f62fe087168.svg">
+<img src="https://wakatime.com/share/@lemyskaman/e115b6c2-f4c5-496f-aa1f-77742e3289af.svg">
 
 
 
