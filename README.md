@@ -1,7 +1,7 @@
 # About me
 
 - 👋 Hi, I’m @lemyskaman
-- 👀 I’m interested in Software architecture and desing, Domain Driven Development 
+- 👀 I’m interested in Software architecture and Development, Real World Problems Solutions throug the Domain Driven Development 
 - 🌱 I’m currently learning Desing Patterns and Machine Learning
 - 💞️ I’m looking to collaborate on a Laravel Based project
 - 📫 You can poke me thorug my networks https://lemyskaman.com/about/lemys-lopez
