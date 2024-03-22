@@ -8,9 +8,9 @@
 - 📫 You can poke me through my networks https://lemyskaman.com/about/lemys-lopez
 
 
-## Languages I've used for different projects in the last year!
+## Languages I've used for different projects:
 
-<img src="https://wakatime.com/share/@lemyskaman/062ac847-9462-4171-8c40-4ff1133ca77a.svg">
+<figure><embed src="https://wakatime.com/share/@lemyskaman/8724682b-4027-433d-98f1-b097e18ce813.svg"></embed></figure>
 
 
 
