@@ -1,14 +1,14 @@
 # About me
 
 - 👋 Hi, I’m @lemyskaman
-- 👀 I’m interested in **Software architecture and Development** for Real World Problems Solutions throug the:
+- 👀 I’m interested in **Software architecture Desing Patterns  and Development** for Real World Problems Solutions through the:
       **Domain Driven Development** 
 - 🌱 I’m currently learning Desing Patterns and Machine Learning
 - 💞️ I’m looking to collaborate on a Laravel Based project
-- 📫 You can poke me thorug my networks https://lemyskaman.com/about/lemys-lopez
+- 📫 You can poke me through my networks https://lemyskaman.com/about/lemys-lopez
 
 
-## Languages I've used for diferent projects in the last year !
+## Languages I've used for different projects in the last year!
 
 <img src="https://wakatime.com/share/@lemyskaman/062ac847-9462-4171-8c40-4ff1133ca77a.svg">
 
