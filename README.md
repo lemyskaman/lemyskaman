@@ -10,7 +10,7 @@
 
 ## Languages I've used for different projects:
 
-<figure><embed src="https://wakatime.com/share/@lemyskaman/8724682b-4027-433d-98f1-b097e18ce813.svg"></embed></figure>
+<img src="https://wakatime.com/share/@lemyskaman/8724682b-4027-433d-98f1-b097e18ce813.svg" />
 
 
 
