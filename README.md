@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Software architecture Desing Patterns  and Development** for Real World Problems Solutions through the:
       **Domain Driven Development** 
 - 🌱 I’m currently learning Desing Patterns and Machine Learning
-- 💞️ I’m looking to collaborate on a Laravel Based project
+- 💞️ I’m looking to collaborate on a Laravel or NestJS based projects
 - 📫 You can poke me through my networks https://lemyskaman.com/about/lemys-lopez
 
 
