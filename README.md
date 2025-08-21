@@ -7,13 +7,13 @@ I enjoy the craft of software — especially **design patterns, architecture, an
 
 ---
 
-## 🚀 About Me
-- 💻 Experienced in **Node.js, Python, Java, PHP, and JavaScript/TypeScript**  
-- 🗄️ Skilled across **SQL (MySQL, PostgreSQL, MariaDB)** and **NoSQL (MongoDB, Elasticsearch)**  
-- 🔎 Specialized in **text search & reporting applications** leveraging Elasticsearch  
-- 📡 Expertise in building **RESTful** and **GraphQL APIs**  
-- 🧑‍🤝‍🧑 Proven track record **leading engineering teams** and driving software delivery excellence  
+## 🚀 About Me  
 
+- 💻 Proficient in **Node.js, Python, Java, PHP, and JavaScript/TypeScript**  
+- 🗄️ Experienced with **SQL (MySQL, PostgreSQL, MariaDB)** and **NoSQL (MongoDB, Elasticsearch)**  
+- 🔎 Specialized in **business automations, operations control, management, and reporting solutions**  
+- 📡 Expertise in building scalable **RESTful** and **GraphQL APIs**  
+- 🧑‍🤝‍🧑 Proven ability to **lead small engineering teams** and drive **software delivery excellence** 
 ---
 
 ## 🌱 Currently Exploring
@@ -45,7 +45,8 @@ I believe that **scalability, maintainability, and clarity** should be first-cla
 ---
 
 ## ⚡ Fun Fact
-Outside of coding, I love exploring new towns on my motorcycle 🏍️ and learning languages – currently practicing Dutch 🇳🇱.  
+Outside of coding, I love exploring new towns on my motorcycle 🏍️ and learning languages – currently practicing German.  
+![](https://hit.yhype.me/github/profile?account_id=4540813)
 
 ---
 
