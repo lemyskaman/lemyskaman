@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Lemys
+# 👋 Hey, I'm Lemys
 
-I'm a **Senior Software Engineer** with 10+ years of experience designing, building, and deploying IT solutions with a strong focus on **clean architecture, design patterns, and scalable systems**.  
+I'm a software developer who’s been around for a while, playing with computers and code, and delivering a wide range of IT solutions along the way.  
+Over the last 10+ years, I’ve moved from hacking together scripts to designing and building **enterprise-grade systems** that solve real business problems.  
 
-I’m passionate about applying **SOLID principles, OOP best practices, and architectural patterns** to create maintainable, enterprise-grade applications. My journey blends **hands-on coding expertise** with **strategic solution design**, bridging the gap between engineering execution and business objectives.  
+I enjoy the craft of software — especially **design patterns, architecture, and clean code principles** — because good design outlives any framework or language trend.  
 
 ---
 
