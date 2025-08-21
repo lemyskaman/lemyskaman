@@ -49,7 +49,7 @@ Outside of coding, I love exploring new towns on my motorcycle 🏍️ and learn
 
 ---
 
-> *“Code is temporary. Architecture is strategy.”*  
+> *“Code is temporary. Architecture is strategy, and Good Principles stands”*  
 
 
 <!---
